@@ -1,0 +1,10 @@
+{
+  "description": "Enhance your language skills with interactive flashcards and pronunciation audio, perfect for learners seeking to expand their vocabulary effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
